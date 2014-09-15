@@ -1,0 +1,29 @@
+{
+  "name": "tachyons-text-decoration",
+  "version": "0.0.1",
+  "homepage": "http://mrmrs.io/tachyons-text-decoration",
+  "description": "Performance based sass module.",
+  "keywords": [
+    "oocss",
+    "sass",
+    "css",
+    "rwd",
+    "design",
+    "tachyons",
+    "css performance"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/mrmrs/tachyons-text-decoration.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mrmrs/tachyons-text-decoration/issues",
+    "email": "hi@mrmrs.cc"
+  },
+  "author": {
+    "name": "mrmrs",
+    "email": "hi@mrmrs.cc",
+    "url": "http://mrmrs.cc"
+  },
+  "license": "MIT"
+}
