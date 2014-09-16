@@ -1,10 +1,10 @@
-# PROJECT-TITLE
+# TACHYONS-TEXT-DECORATION
 
 Work In Progress. Pull requests and open issues welcome.
 
 ## Install
 ```
-npm install --save-dev 
+npm install --save-dev tachyons-text-decoration
 ```
 or download the css on github and include in your project.
 
