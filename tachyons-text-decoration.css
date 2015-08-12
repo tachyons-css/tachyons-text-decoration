@@ -4,40 +4,40 @@
 
 */
 
-.under {
+.underline {
   text-decoration: underline;
 }
 
-.none {
+.no-underline {
   text-decoration: none;
 }
 
 @media screen and (max-width: 48em) {
-  .under-ns {
+  .underline-ns {
     text-decoration: underline;
   }
 
-  .none-ns {
+  .no-underline-ns {
     text-decoration: none;
   }
 }
 
 @media screen and (min-width: 48em) and (max-width: 64em) {
-  .under-m {
+  .underline-m {
     text-decoration: underline;
   }
 
-  .none-m {
+  .no-underline-m {
     text-decoration: none;
   }
 }
 
 @media screen and (min-width: 64em) {
-  .under-l {
+  .underline-l {
     text-decoration: underline;
   }
 
-  .none-l {
+  .no-underline-l {
     text-decoration: none;
   }
 }
