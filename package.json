@@ -1,6 +1,6 @@
 {
   "name": "tachyons-text-decoration",
-  "version": "1.0.2",
+  "version": "2.0.0",
   "style": "tachyons-text-decoration.css",
   "homepage": "http://github.com/mrmrs/tachyons-text-decoration",
   "description": "Performance based css module.",
