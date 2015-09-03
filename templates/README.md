@@ -1,42 +1,22 @@
-# TACHYONS-TEXT-DECORATION
+# <%= module.name %>
+<%= module.version %>
 
-http://tachyons.io
-
-Work In Progress. Pull requests and open issues welcome.
+<%= module.description %>
 
 ## Install
 ```
-npm install --save-dev tachyons-text-decoration
+npm install --save-dev <%= module.name %>
 ```
-or download the css on github and include in your project.
+
+or download the css on github and include in your project:
+
+```
+git clone git@github.com:mrmrs/<%= module.name %>
+```
 
 ## The Code
 ```
-
-/*
-
-   TEXT DECORATION
-
-*/
-
-.under  { text-decoration: underline; }
-.none   { text-decoration: none; }
-
-
-@include break(not-small) {
-  .under-ns  { text-decoration: underline; }
-  .none-ns   { text-decoration: none; }
-}
-
-@include break(medium) {
-  .under-m  { text-decoration: underline; }
-  .none-m   { text-decoration: none; }
-}
-
-@include break(large) {
-  .under-l  { text-decoration: underline; }
-  .none-l   { text-decoration: none; }
-}
+<%= srcCSS %>
 ```
 
 ## Author
