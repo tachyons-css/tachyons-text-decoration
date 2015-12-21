@@ -3,22 +3,18 @@
    TEXT DECORATION
 
 */
-
-.underline {    text-decoration: underline; }
+.underline { text-decoration: underline; }
 .no-underline { text-decoration: none; }
-
-
 @media screen and (min-width: 48em) {
-  .underline-ns {    text-decoration: underline; }
-  .no-underline-ns { text-decoration: none; }
+ .underline-ns { text-decoration: underline; }
+ .no-underline-ns { text-decoration: none; }
 }
-
 @media screen and (min-width: 48em) and (max-width: 64em) {
-  .underline-m {    text-decoration: underline; }
-  .no-underline-m { text-decoration: none; }
+ .underline-m { text-decoration: underline; }
+ .no-underline-m { text-decoration: none; }
+}
+@media screen and (min-width: 64em) {
+ .underline-l { text-decoration: underline; }
+ .no-underline-l { text-decoration: none; }
 }
 
-@media screen and (min-width: 64em) {
-  .underline-l {    text-decoration: underline; }
-  .no-underline-l { text-decoration: none; }
-}
