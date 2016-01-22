@@ -1,4 +1,4 @@
-# tachyons-text-decoration 2.1.0
+# tachyons-text-decoration 3.0.3
 
 Performance based css module.
 
